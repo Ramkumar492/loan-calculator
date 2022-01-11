@@ -1,0 +1,87 @@
+
+body
+{
+  text-align: center;
+  background-color:#FFCDDD;
+}
+.container
+{
+
+padding-top: 3%;
+
+}
+h2
+{
+  background-color: #BB5CF3;
+  color: white;
+  padding: 2%;
+}
+h5
+{
+
+}
+h6
+{
+  color: white;
+  padding-top: 4px;
+}
+#input
+{
+  text-align: center;
+  margin-left: 37%;
+  margin-bottom: 3%;
+
+
+
+
+
+
+}
+.input-card
+{
+
+
+  background-color: #EA99D5;
+}
+.input-group-addon
+{
+  padding: 0 10px;
+  font-weight: bold;
+  background-color: #8946A6;
+}
+.get-input-form
+{
+  text-align: left;
+}
+.submit-btn
+{
+  background-color: #612897;
+  width:50%;
+      margin-left:25%;
+      margin-right:25%;
+}
+
+/* calculation */
+
+.loading-gif
+{
+  margin-right: 29%;
+  /* display: none; */
+}
+
+.diss
+{
+  display: none;
+}
+
+#calculation
+{
+  /* padding-left: 50%; */
+ position: relative;
+  margin-left: 25%;
+}
+
+.results
+{
+  /* display: none; */
+}
